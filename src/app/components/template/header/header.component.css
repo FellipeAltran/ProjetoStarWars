@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: gray;
+}
+
+.logo {
+    max-height: 100px;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 30px;
+}
